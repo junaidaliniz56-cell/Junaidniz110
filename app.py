@@ -125,7 +125,7 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by Junaid Niz 💗 
+Powered by THEM Legend
 """
 
 
