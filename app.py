@@ -6,12 +6,11 @@ from phonenumbers import geocoder
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8564470498:AAEyvBZgP9k2I5pSSmob9anhGg8r8XrU3u0"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    -1003361941052,
-    -1002076058429,
+    -1003671703830,
 ]
 
 API_URLS = [
@@ -19,6 +18,8 @@ API_URLS = [
     "https://www.kamibroken.pw/api/sms?type=sms",
     "https://www.junaidniz.pw//api/tempotps?type=sms",
     "https://www.junaidniz.pw//api/tempotp?type=sms",
+    "https://www.kamibroken.pw/api/sms3?type=sms",
+    
     
 ]
 
