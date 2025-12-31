@@ -132,8 +132,8 @@ Powered by Junaid Niz 💗
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📢 Channel", url="https://t.me/Jndtech1"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+c4VCxBCT3-QzZGFk")
+            InlineKeyboardButton(text="📢 Channel", url="https://t.me/LegendNumber92"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/LegendNumber92")
         ],
         [
             InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/junaidniz786"),
